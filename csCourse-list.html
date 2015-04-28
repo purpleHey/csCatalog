@@ -1,0 +1,47 @@
+<div class="row"></div>
+<div class="col-xs-12">
+<h1>High School Computer Science Courses</h1>
+</div>
+<div class="bs-example">
+</br>
+	<form class="filterCourses">
+		Search:<input ng-model="query" type="text"/>
+	</form>
+  <table class="table table-striped">
+<!--"courseID": 1,
+		"teksID": "126.32",
+		"teksTitle" : "Fundamentals of Computer Science",
+		"courseName": "Thriving in our Digital World",
+		"abstract" : "This year long course is designed to introduce students to key topics in computer science including digital representation of information, the impact of CS on society, and computer programming",
+		"programmingLanguages" : ["Scratch", "Processing"]
+ -->    
+ 		<thead>
+      <tr>
+        <th>TEKS ID</th>
+        <th>TEKS Title</th>
+        <th>Course Abstract</th>
+        <th>Languages</th>
+      </tr>
+  	</thead>
+<!-- //	  <tbody ng-bind-html="some HTML below">-->	  
+		<tbody>
+	  	<tr ng-repeat="course in courses | filter:query">
+		    <td>{{course.teksID}}</td>
+	    	<td><a href="#/{{course.courseID}}">{{course.teksTitle}}</a></td>
+		    <td>{{course.abstract}}</td>
+		    <td>
+		    	<div ng-repeat="lang in course.programmingLanguages track by $index">
+		    		<p><span class="label label-info">{{lang}}</span></p>
+		    	</div>
+		    </td>
+	  	</tr>
+	  </tbody>
+	</table>
+</div>
+
+<!-- <ul>
+	<li ng-repeat="course in courses">
+	    <a href="#/{{course.courseName}}">{{course.courseName}}</a>
+	</li>
+<ul>
+ -->

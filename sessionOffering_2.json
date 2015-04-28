@@ -1,0 +1,22 @@
+{
+	"courseID": 2,
+	"exception" : false,
+	"courseName": "Computer Programming",
+	"courseImgURL" : "//lasacs.com/wp-content/uploads/2014/10/programming.jpg",
+	"website": "http://lasacs.com/cp/",
+	"suggestedAgeGroup": "15-18",
+	"prerequisites": "No prior programming experience is required",
+	"duration" : "Full Academic Year",
+	"syllabus": "https://docs.google.com/a/mixonium.com/document/d/1HIRMB1F7ekMerXpO_LzmhiPd3PdgxUyg3ATY7E5ntYA/edit",
+	"courseDescription": "The ability to write a computer program has become an essential skill a lot of employers are looking for. This skill impacts not only expected fields such as security, technology, and information systems but also the fields of medicine, communications, entertainment, forensics, manufacturing, disaster recovery, law, and business. All are finding ways to take advantage of the power of computers. Being able to program is applicable in just about any area you can think. It will even enable you to exploit the full power of various applications like spreadsheets and services like Google.",
+	"sessions" : [
+		{
+			"district" : "AISD",
+			"highSchool" : "LASA",
+			"academicYear" : 2014,
+			"numberOfSections" : 2,
+			"teacherID" : 13,
+			"yearEndNotes" : "Notes from the 2014-2015 school year"
+		}
+	]
+}

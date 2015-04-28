@@ -1,0 +1,138 @@
+[
+    {
+        "teacherid": 1,
+        "firstname": "Elizabeth",
+        "lastname": "Phillips",
+        "highschool": "Akins",
+        "email": "elizabeth.phillips@austinisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 2,
+        "firstname": "Shireen",
+        "lastname": "Dadmehr",
+        "highschool": "Ann Richards",
+        "email": "shireen.dadmehr@austinisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 3,
+        "firstname": "Jody",
+        "lastname": "Schwarzlose",
+        "highschool": "Blanco",
+        "email": "jody.schwarzlose@blanco.txed.net",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 4,
+        "firstname": "John",
+        "lastname": "Miller",
+        "highschool": "Georgetown",
+        "email": "millerjo@georgetownisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 5,
+        "firstname": "Bota",
+        "lastname": "Sadykova",
+        "highschool": "Harmony",
+        "email": "bsadykova@harmonytx.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 6,
+        "firstname": "Jeremiah",
+        "lastname": "McMillan",
+        "highschool": "Hays",
+        "email": "mcmillanj@hayscisd.net",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 7,
+        "firstname": "Rainer",
+        "lastname": "Mueller",
+        "highschool": "LASA",
+        "email": "rainer.mueller@austinisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 8,
+        "firstname": "Madiha",
+        "lastname": "Marium",
+        "highschool": "LASA",
+        "email": "madiha.marium@austinisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 9,
+        "firstname": "Jim",
+        "lastname": "Alleman",
+        "highschool": "McNeil",
+        "email": "jim_alleman@roundrockisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 10,
+        "firstname": "Jennifer",
+        "lastname": "Persons",
+        "highschool": "Pflugerville",
+        "email": "jennifer.persons@pfisd.net",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 11,
+        "firstname": "Deborah",
+        "lastname": "Kariuki",
+        "highschool": "Stony Point",
+        "email": "deborah_kariuki@roundrockisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 12,
+        "firstname": "Galen",
+        "lastname": "Goudreau",
+        "highschool": "Vandegrift",
+        "email": "galen.goodreau@leanderisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 13,
+        "firstname": "Tamany",
+        "lastname": "Wendel",
+        "highschool": "Vista Ridge",
+        "email": "tamany.wendel@leanderisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 14,
+        "firstname": "Lynn",
+        "lastname": "Rosier",
+        "highschool": "Westlake",
+        "email": "lrosier@eanesisd.net",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 15,
+        "firstname": "Jessica",
+        "lastname": "Patterson",
+        "highschool": "Westwood",
+        "email": "Jessica_Patterson@roundrockisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 16,
+        "firstname": "Jeffrey",
+        "lastname": "Mickel",
+        "highschool": "Westwood",
+        "email": "Jeffrey_Mickel@roundrockisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    },
+    {
+        "teacherid": 17,
+        "firstname": "Vincent",
+        "lastname": "Wrencher",
+        "highschool": "Anderson",
+        "email": "vincent.wrencher@austinisd.org",
+        "lastupdated": "2015-03-01T06:00:00.000Z"
+    }
+]

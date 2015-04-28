@@ -1,0 +1,12 @@
+{
+	"courseID": 1,
+	"courseTEKSName" : "Independent Study",
+	"courseImgURL" : "//www.cs.utexas.edu/~engage/images/New%20Images/thrivingicon.png",
+	"website": "http://www.cs.utexas.edu/~engage/",
+	"suggestedAgeGroup": "15-18",
+	"prerequisites": "No prior programming experience is required",
+	"duration" : "Full Academic Year",
+	"offered" : "Fall 2014, Fall 2015",
+	"syllabus": "https://canvas.instructure.com/courses/884561",
+	"courseDescription": "This college-level course exposes students to the big ideas in computer science that cross disciplinary boundaries. Our inquiry-based, student-centered instruction engages diverse student populations with computer science content that is both rigorous and relevant to their lives."
+}

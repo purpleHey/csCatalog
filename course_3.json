@@ -1,0 +1,11 @@
+{
+	"courseID": 3, 
+	"courseTEKSName" : "AP Computer Science",
+	"courseImgURL" : "//lasacs.com/wp-content/uploads/2014/10/programming.jpg",
+	"website": "http://lasacs.com/ap/",
+	"suggestedAgeGroup": "15-18",
+	"prerequisites": "?Computer Science 1?",
+	"duration" : "Full Academic Year",
+	"syllabus": "https://docs.google.com/document/d/1qn8BExEtJyOwvE19zN7hoVdC1_sXfydJ2hLIYhC79YE/edit",
+	"courseDescription": "Advanced Placement® Computer Science A is a fast-paced course equivalent to a college introductory programming class. Students will learn about the exciting kinds of problems tackled by computer science while exploring the field’s most important tool—programming. The course will explore systematic problem-solving strategies that can be applied to real world problems. The focus will be on writing full classes and the logic and structures around building them. Throughout the course, students will study common, reusable algorithms and learn to analyze them for correctness and speed.<br><br>The course will cover fundamentals of programming syntax and methodology using the Java programming language. Java is a modern, object-oriented programming language used to create professional software. In addition to gaining fluency in Java, students will develop general computer skills and consider the social and ethical implications of computing."
+}

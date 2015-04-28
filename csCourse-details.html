@@ -1,0 +1,55 @@
+<!--
+ 	"courseID": 1,
+	"exception" : true,
+	"courseName": "Thriving in our Digital World",
+	"courseImgURL" : "//www.cs.utexas.edu/~engage/images/New%20Images/thrivingicon.png",
+	"website": "http://www.cs.utexas.edu/~engage/",
+	"suggestedAgeGroup": "15-18",
+	"prerequisites": "No prior programming experience is required",
+	"duration" : "Full Academic Year",
+	"syllabus": "https://canvas.instructure.com/courses/884561",
+	"courseDescription": "This college-level course exposes students to the big ideas in computer science that cross disciplinary boundaries. Our inquiry-based, student-centered instruction engages diverse student populations with computer science content that is both rigorous and relevant to their lives."
+ -->
+ <img src="{{course.courseImgURL}}" width="230">
+<h1>{{course.courseName}}</h1>
+<ul>
+  <li>ID: {{course.courseID}}</li>
+  <li>Description: {{course.courseDescription}}</li>
+</ul>
+<table class="table table-striped">
+<!--
+ 	"sessions" : [
+		{
+			"district" : "AISD",
+			"highSchool" : "Anderson High School",
+			"academicYear" : 2014,
+			"teacherID" : 17,
+			"yearEndNotes" : "How many kids took the course?  How many passed?  Link to a survey"
+		},
+	],
+ -->	
+ 	<thead>
+    <tr>
+      <th>Academic Year</th>
+      <th>District</th>
+      <th>School</th>
+      <th>Teacher</th>
+      <th>yearEndNotes</th>
+    </tr>
+	</thead>
+<!-- //	  <tbody ng-bind-html="some HTML below">-->	  
+	<tbody>
+  	<tr ng-repeat="session in course.sessions">
+	    <td>{{session.academicYear}}</td>
+	    <td>{{session.district}}</td>
+	    <td>{{session.highSchool}}</td>
+    	<td><a href="#/{{session.teacherID}}">{{session.teacherID}}</a></td>
+	    <td>{{session.yearEndNotes}}</td>
+<!-- 	    <td>
+	    	<div ng-repeat="lang in course.programmingLanguages track by $index">
+	    		<p><span class="label label-info">{{lang}}</span></p>
+	    	</div>
+	    </td>
+ -->  	</tr>
+  </tbody>
+</table>

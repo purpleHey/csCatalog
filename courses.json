@@ -1,0 +1,24 @@
+[
+	{
+		"courseID": 1,
+		"teksID": "126.32",
+		"teksTitle" : "Fundamentals of Computer Science",
+		"courseName": "Thriving in our Digital World",
+		"abstract" : "This year long course is designed to introduce students to key topics in computer science including digital representation of information, the impact of CS on society, and computer programming",
+		"programmingLanguages" : ["Scratch", "Processing"]
+	},
+	{
+		"courseID": 2, 
+		"teksID": "126.33",
+		"teksTitle" : "Computer Science I",
+		"abstract" : "!Learn how to program",
+		"programmingLanguages" : ["Scratch", "Jeroo", "Python"]
+	},
+	{
+		"courseID": 3, 
+		"teksID": "126.62",
+		"teksTitle": "Advanced Placement (AP) Computer Science A",
+		"abstract" : "?Learn how to program Java?",
+		"programmingLanguages" : ["Java"]
+	}
+]

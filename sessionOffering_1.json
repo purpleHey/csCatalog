@@ -1,0 +1,30 @@
+{
+	"courseID": 1,
+	"exception" : true,
+	"courseName": "Thriving in our Digital World",
+	"courseImgURL" : "//www.cs.utexas.edu/~engage/images/New%20Images/thrivingicon.png",
+	"website": "http://www.cs.utexas.edu/~engage/",
+	"suggestedAgeGroup": "15-18",
+	"prerequisites": "No prior programming experience is required",
+	"duration" : "Full Academic Year",
+	"syllabus": "https://canvas.instructure.com/courses/884561",
+	"courseDescription": "This college-level course exposes students to the big ideas in computer science that cross disciplinary boundaries. Our inquiry-based, student-centered instruction engages diverse student populations with computer science content that is both rigorous and relevant to their lives.",
+	"sessions" : [
+		{
+			"district" : "AISD",
+			"highSchool" : "Anderson High School",
+			"academicYear" : 2014,
+			"numberOfSections" : 1,
+			"teacherID" : 17,
+			"yearEndNotes" : "How many kids took the course?  How many passed?  Link to a survey"
+		},
+		{
+			"district" : "AISD",
+			"highSchool" : "Stoney Point",
+			"academicYear" : 2014,
+			"numberOfSections" : 1,
+			"teacherID" : 11,
+			"yearEndNotes" : "Notes from the 2014-2015 school year"
+		}
+	]
+}
